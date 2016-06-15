@@ -2,7 +2,6 @@
 
 Place your responses inside the fenced code-blocks where indicated by comments.
 
-
 What is the purpose of a backend?
 
 ```bash
@@ -41,6 +40,7 @@ In which part of the MVC pattern can we find C.R.U.D actions?
 ```bash
 controller
 ```
+
 List at least 5 standard actions that C.R.U.D corresponds to?
 
 ```bash
