@@ -91,6 +91,6 @@ rails-api g scaffold pet name:string age:integer
 List two advantages of using serializers? (2 bullet points)
 
 ```bash
-* first
-* second
+* serializers make the api safer
+* serializers make the api easier to use
 ```
